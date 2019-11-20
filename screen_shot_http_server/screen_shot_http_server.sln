@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "screen_shot_http_server", "screen_shot_http_server.vcxproj", "{9580CAB2-4D7C-406B-AB21-FE8A8D784CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9580CAB2-4D7C-406B-AB21-FE8A8D784CFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9580CAB2-4D7C-406B-AB21-FE8A8D784CFA}.Debug|Win32.Build.0 = Debug|Win32
+		{9580CAB2-4D7C-406B-AB21-FE8A8D784CFA}.Release|Win32.ActiveCfg = Release|Win32
+		{9580CAB2-4D7C-406B-AB21-FE8A8D784CFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
