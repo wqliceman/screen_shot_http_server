@@ -66,9 +66,7 @@ void SaveScreanWindow()
 	{
 		str_path = str_path.substr(0, index);
 	}
-	str_path += "\\";
-
-	str_path += "temp.bmp";
+	str_path += IMAGE_NAME;
 	printf("path: %s\n", str_path.c_str());
 	ScreenWindow(str_path.c_str());
 }
